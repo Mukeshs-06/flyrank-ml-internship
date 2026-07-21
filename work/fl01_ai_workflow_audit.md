@@ -39,12 +39,14 @@ This workflow audit maps 12 recurring tasks from my machine learning study, rese
 - **Status:** Enrolled & Module 1 (*Collaborating with AI Effectively & Safely*) Completed.
 - **Key Takeaway:** AI is an operational multiplier when used with human-in-the-loop validation; task delegation requires clear boundaries based on error cost and domain risk.
 
+![Anthropic Academy Screenshot](anthropic_academy.png)
+
 ---
 
 ## 3. Claude Project Configuration
 
 ### Project Details
-- **Project Name:** `FlyRank ML Internship Assistant`
+- **Project Name:** `FlyRank ML internship guidance`
 - **Custom System Instructions:**
 
 > You are acting as my technical AI pair-programmer and research mentor for the FlyRank Machine Learning Internship.
@@ -61,6 +63,8 @@ This workflow audit maps 12 recurring tasks from my machine learning study, rese
 > - Build transparent, honest machine learning models to detect content decay.
 > - Maintain strict data safety and feature leakage checks.
 > - Produce clear, actionable content refresh priority queues.
+
+![Claude Project Screenshot](claude_project.png)
 
 ---
 
@@ -93,6 +97,6 @@ The following three tasks from the audit matrix have been selected for iterative
 
 - [x] 12 recurring tasks listed with clear one-line rationales
 - [x] At least two tasks explicitly marked **"Just me"** with domain justification
-- [x] Tool setup & Anthropic Academy enrollment documented
-- [x] Claude Project custom system instructions defined
+- [x] Tool setup & Anthropic Academy enrollment documented with screenshot
+- [x] Claude Project custom system instructions defined with screenshot
 - [x] 3 specific target tasks chosen for FL-02 to FL-04 with measurable success metrics
